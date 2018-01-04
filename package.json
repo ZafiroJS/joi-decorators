@@ -39,7 +39,7 @@
     "mocha": "4.1.0",
     "publish-please": "2.3.1",
     "reflect-metadata": "0.1.10",
-    "run-sequence": "2.2.0",
+    "run-sequence": "2.2.1",
     "source-map-support": "0.5.0",
     "ts-node": "4.1.0",
     "tslint": "5.8.0",
