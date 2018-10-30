@@ -47,7 +47,7 @@
     "typescript": "2.6.2"
   },
   "dependencies": {
-    "@types/joi": "13.0.6",
+    "@types/joi": "14.0.0",
     "joi": "13.1.2",
     "tslib": "1.9.0"
   }
